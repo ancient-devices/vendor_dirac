@@ -1,7 +1,7 @@
 # Dirac/MI Sound Enhancer
 
 - Add this in device.mk:
-$(call inherit-product, vendor/xiaomi/dirac/dirac.mk)
+$(call inherit-product, vendor/dirac/dirac.mk)
 
 Add this to your audio_effects.xml
 
